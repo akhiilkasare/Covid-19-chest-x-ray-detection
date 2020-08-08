@@ -44,6 +44,7 @@ Since we do not know the number of people who were infected but not tested for t
 # Dataset
 * The dataset contains the X-ray images of the normal patients and the patients having COVID-19
 * The dataset has two classes COVID and NON-COVID.
+* You can download the dataset [from here](https://www.kaggle.com/akhilkasare/covid19-chest-xray-detection) 
 
 * Normal X-ray
 ![normal](https://github.com/akhiilkasare/Covid-19-chest-x-ray-detection/blob/master/Images/normal_xray.jpg)
