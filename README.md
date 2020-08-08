@@ -64,4 +64,4 @@ Depending on the type of problem you have set out to solve, there are specific e
 
 # Conclusion
 
-Developing and Implementing a Machine Learning for a healthcare setting is not a quick process, but I hope this article gives you a foundation for knowing the obstacles you might come across. Keep in mind, even if you build your model and it works well, you still need to deploy it. Although deploying a Machine Learning system is very simple in practice, healthcare regulations and controls require you to take certain measures to ensure standardization and quality assurance.
+Developing and Implementing a Deep Learning for a healthcare setting is not a quick process, but I hope this project gives you a foundation for knowing the obstacles you might come across. Keep in mind, even if you build your model and it works well, you still need to deploy it. Although deploying a Deep Learning system is very simple in practice, healthcare regulations and controls require you to take certain measures to ensure standardization and quality assurance.
