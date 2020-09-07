@@ -66,3 +66,7 @@ Depending on the type of problem you have set out to solve, there are specific e
 # Conclusion
 
 Developing and Implementing a Deep Learning for a healthcare setting is not a quick process, but I hope this project gives you a foundation for knowing the obstacles you might come across. Keep in mind, even if you build your model and it works well, you still need to deploy it. Although deploying a Deep Learning system is very simple in practice, healthcare regulations and controls require you to take certain measures to ensure standardization and quality assurance.
+
+# Objective 
+
+The main aim to create this project was to save the time of the doctors to identify whether the patient is have COVID-19 or not who are working on the frontline and are fighting against the pandemic.
