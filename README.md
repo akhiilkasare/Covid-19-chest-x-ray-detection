@@ -69,4 +69,4 @@ Developing and Implementing a Deep Learning for a healthcare setting is not a qu
 
 # Objective 
 
-The main aim to create this project was to save the time of the doctors to identify whether the patient is have COVID-19 or not who are working on the frontline and are fighting against the pandemic.
+The main aim of creating this project was to save the time of the doctors to identify whether the patient is have COVID-19 or not who are working on the frontline and are fighting against the pandemic.
